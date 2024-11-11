@@ -42,5 +42,5 @@ def main():
         print("No data was entered.")
 
 
-if __name__ == "__main__":
-    main()
+
+main()
