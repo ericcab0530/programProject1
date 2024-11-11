@@ -41,6 +41,4 @@ def main():
     else:
         print("No data was entered.")
 
-
-
 main()
